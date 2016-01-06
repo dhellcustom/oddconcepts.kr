@@ -1,0 +1,7 @@
+/* Accessibility hacks */
+.social-icon ul li a span {
+    font-size: 0;
+}
+#loading-link {
+    font-size: 0;
+}
